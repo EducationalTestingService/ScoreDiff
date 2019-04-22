@@ -5,10 +5,10 @@ R software
 # Citing
 If you are using the ScoreDiff function in your work, you can cite it as:
 
-#MLA
+## MLA
 Sinharay, S. (2019). Documentation for the ScoreDiff R Function. ETS Research Memorandum. Princeton NJ: ETS
 
-#Bibtex
+## Bibtex
 @techreport{s19,
 author="Sinharay, S.",
 year=2019,
