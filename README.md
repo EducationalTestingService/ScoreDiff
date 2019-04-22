@@ -10,10 +10,17 @@ Sinharay, S. (2019). Documentation for the ScoreDiff R Function. ETS Research Me
 
 ## Bibtex
 @techreport{s19,
+
 author="Sinharay, S.",
+
 year=2019,
+
 title="Documentation for the ScoreDiff R Function",
+
 type="Research Memorandum",
+
 number="RM-19-xx",
+
 institution="ETS",
+
 address="Princeton, NJ"}
